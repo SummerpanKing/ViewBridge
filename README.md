@@ -1,10 +1,37 @@
-# ViewBridge: Revisiting Cross-View Localization from Image Matching
-[![Paper](http://img.shields.io/badge/paper-arXiv.2508.10716-B31B1B.svg)](https://arxiv.org/abs/2508.10716)
+<div align="center">
 
-We welcome any questions or suggestions via the Issues section.
+<h1>ViewBridge: Revisiting Cross-View Localization from Image Matching</h1>
+
+Panwang Xia<sup>1 *</sup>, 
+Qiong Wu<sup>1 *</sup>, 
+Lei Yu<sup>2</sup>, 
+Yi Liu<sup>1</sup>, 
+Mingtao Xiong<sup>1</sup>, 
+Xudong Lu<sup>3</sup>,
+Yi Liu<sup>1</sup>,
+Haoyu Guo<sup>1</sup>,
+Yongxiang Yao<sup>1</sup>,
+Junjian Zhang<sup>2</sup>,
+Xiangyuan Cai<sup>2</sup>,
+Hongwei Hu<sup>2</sup>,
+Zhi Zheng<sup>3</sup>,
+Yongjun Zhang<sup>1</sup>, 
+Yi Wan<sup>1 †</sup>.
+
+<sup>1</sup> Wuhan University,  <sup>2</sup> Ant Group,  <sup>3</sup> The Chinese University of Hong Kong.
+
+<sup>*</sup> Equally contribution
+<sup>†</sup> Corresponding author
+
+</div>
+
+## 🔥 Update
+
+**2025.08.14**
+- The paper is post on arXiv!  [![Paper](http://img.shields.io/badge/paper-arXiv.2508.10716-B31B1B.svg)](https://arxiv.org/abs/2508.10716)
 
 ## ✅ To-Do
-
+We welcome any questions or suggestions via the Issues section.
 - [x] Initial repo structure.
 - [ ] Codes and models.
 - [ ] CVFM benchmark.
