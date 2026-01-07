@@ -128,7 +128,7 @@ Coming Soon.
 If you find ViewBridge helpful, please give a ⭐ and cite it as follows:
 
 ```
-@misc{xia2025viewbridge,
+@article{xia2025viewbridge,
   title={ViewBridge: Revisiting Cross-View Localization from Image Matching},
   author={Xia, Panwang and Wu, Qiong and Yu, Lei and Liu, Yi and Xiong, Mingtao and Lu, Xudong and Guo, Haoyu and Yao, Yongxiang and Zhang, Junjian and Cai, Xiangyuan and others},
   journal={arXiv preprint arXiv:2508.10716},
